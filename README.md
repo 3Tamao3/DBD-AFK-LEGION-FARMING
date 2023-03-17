@@ -4,3 +4,4 @@ then you need to press F8 to start the script. If you want to stop press F8 agai
 
 Contact me for better variants Discord: Tamao#1430
 
+(It is not bannable because Dead By Daylight doesn't care if you use macros or something like that so don't worry c:)
