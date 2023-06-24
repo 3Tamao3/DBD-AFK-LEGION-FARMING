@@ -4,8 +4,6 @@ then you need to press F8 to start the script. If you want to stop press F8 agai
 
 Contact me for ideas or issues Discord: Tamao#1430
 
-The script farmed me ~1mil Bloodpoints overnight and 9k Shards in two days
-
 The script works only on 1920x1080 res. cuz of the fixed coordinates.
 
 (It is not bannable because Dead By Daylight doesn't care if you use macros or something like that so don't worry c:)
