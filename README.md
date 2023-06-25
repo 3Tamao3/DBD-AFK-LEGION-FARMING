@@ -2,6 +2,8 @@
 Dead By Daylight script for legion! Just start the script and then start the game and selecet legion as killer and 
 then you need to press F8 to run the script. If you want to stop the script running just press F8 again. 
 
+My method to farm Bloodpoints, Shards, Rift Fragments/Level while being AFK or sleeping.
+
 Contact me for ideas or issues Discord: Tamao#1430
 
 The script works only on 1920x1080 res. cuz of the fixed coordinates.
