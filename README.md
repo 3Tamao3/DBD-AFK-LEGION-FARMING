@@ -12,5 +12,5 @@ It is not bannable because Dead By Daylight doesn't care if you use macros or so
 
 Here is my dbd-auto-leveling-script: https://github.com/3Tamao3/DBD-auto-leveling
 
-Here is my tracking-progress:
+Here is my 7-Day-Experiment:
 https://docs.google.com/spreadsheets/d/1DmQG6aEy59FFuXPX0zjsc3zuepT39HPaYvSepahDGbY/edit?usp=sharing
