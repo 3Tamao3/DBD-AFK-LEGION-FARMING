@@ -7,7 +7,7 @@ then you need to press F8 to run the script. If you want to stop the script runn
 
 (The script could also work for Trapper or HillBilly but wont farm you that much Bloodpoints. If you are a beginner in DBD use the script with HillBilly until you can buy Legion with the Shards you farmed with the script.)
 
-Contact me for ideas or issues Discord: Tamao#1430
+
 
 The script works only on 1920x1080 res. cuz of the fixed coordinates.
 
