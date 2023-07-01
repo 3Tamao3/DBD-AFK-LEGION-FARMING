@@ -18,7 +18,6 @@ You need AutoHotKey to use the script-> https://www.autohotkey.com
 Guide on how to install and use the script -> https://docs.google.com/spreadsheets/d/1oE1dZt94HqRpDVphrh_yqhoYkxOGkzuJ-7W1CV9y320/edit#gid=0
 
 Here is my 7-Day-Experiment-> https://docs.google.com/spreadsheets/d/1DmQG6aEy59FFuXPX0zjsc3zuepT39HPaYvSepahDGbY/edit?usp=sharing
-
 (In this spreadsheet you can see how much Bloodpoints and Shards i farmed in 7 days.)
 
 MY OTHER "PROJECTS":
