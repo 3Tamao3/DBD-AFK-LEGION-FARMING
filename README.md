@@ -1,5 +1,7 @@
 # DBD-AFK-LEGION-FARMING
 
+INFO:
+-
 My method to farm Bloodpoints, Shards, Rift Fragments/Level while being AFK or sleeping.
 
 HillBilldy should work also!!!
