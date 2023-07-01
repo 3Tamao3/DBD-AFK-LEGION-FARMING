@@ -4,7 +4,7 @@ INFO:
 -
 My method to farm Bloodpoints, Shards, Rift Fragments/Level while being AFK or sleeping.
 
-HillBilldy should work also!!!
+The script works for HillBilly/Legion. (Legion is the best.)
 
 The script works only on 1920x1080 res. cuz of the fixed coordinates.
 
